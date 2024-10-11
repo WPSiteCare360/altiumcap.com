@@ -1,8 +1,8 @@
+Sitemap: https://stirring-manatee-8dae19.netlify.app/sitemap.xml
+
 User-agent: *
 Disallow: /cgi-bin/
 Disallow: /img/
 Disallow: /css/
 Disallow: /js/
 Disallow: /OLDSITE/
-
-Sitemap: /sitemap.xml
