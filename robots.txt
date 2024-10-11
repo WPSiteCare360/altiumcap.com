@@ -4,3 +4,5 @@ Disallow: /img/
 Disallow: /css/
 Disallow: /js/
 Disallow: /OLDSITE/
+
+Sitemap: /sitemap.xml
