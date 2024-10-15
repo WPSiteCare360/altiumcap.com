@@ -10,4 +10,5 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     Content-Security-Policy = "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self' data:; connect-src 'self'; media-src 'self'; object-src 'none'; frame-src 'self'; worker-src 'none'; base-uri 'self'; manifest-src 'self'"
