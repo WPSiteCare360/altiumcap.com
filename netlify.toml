@@ -4,4 +4,4 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "default-src 'self'; script-src 'report-sample' 'self' https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' https://fonts.googleapis.com https://maxcdn.bootstrapcdn.com; object-src 'none'; base-uri 'self'; connect-src 'self'; font-src 'self' https://fonts.gstatic.com https://maxcdn.bootstrapcdn.com; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; report-uri https://670db382b2baf8565b015782.endpoint.csper.io/?v=0; worker-src 'none';"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'report-sample' https://www.googletagmanager.com/gtag/js; style-src 'self' 'unsafe-inline' 'report-sample' https://fonts.googleapis.com https://maxcdn.bootstrapcdn.com; img-src 'self'; font-src 'self' https://fonts.gstatic.com https://maxcdn.bootstrapcdn.com; connect-src 'self'; media-src 'self'; object-src 'none'; frame-src 'self'; worker-src 'none'; base-uri 'self'; manifest-src 'self'; report-uri https://670db382b2baf8565b015782.endpoint.csper.io/?v=0"
