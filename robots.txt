@@ -1,4 +1,4 @@
-Sitemap: https://stirring-manatee-8dae19.netlify.app/sitemap.xml
+Sitemap: https://altiumcap.com/sitemap.xml
 
 User-agent: *
 Disallow: /cgi-bin/

@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "http://altiumcap.com/*"
+  to = "https://altiumcap.com/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
