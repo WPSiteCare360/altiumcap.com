@@ -6,3 +6,5 @@ Disallow: /img/
 Disallow: /css/
 Disallow: /js/
 Disallow: /OLDSITE/
+Disallow: /cdn-cgi/
+Disallow: /*.html$
